@@ -1,0 +1,26 @@
+{
+    "customers": [],
+    "purchases": [],
+    "products": [],
+    "productTypes": [],
+    "employees": [],
+    "locations": [
+        {
+            "id": 1,
+            "address": "2121 KitKat Way"
+        },
+        {
+            "id": 2,
+            "address": "1300 My House Ct"
+        },
+        {
+            "id": 3,
+            "address": "145 Crunch Bar Rd"
+        },
+        {
+            "id": 4,
+            "address": "902 Gummy Bear St"
+        }
+    ]
+
+}
